@@ -10,6 +10,8 @@ BuildArch:      noarch
  
 BuildRequires:  pkgconfig(python)
 BuildRequires:  python3dist(setuptools)
+BuildRequires:  python3dist(wheel)
+BuildRequires:  python3dist(pip)
 
 %description
 Black is the uncompromising Python code formatter. By using it, you agree to
