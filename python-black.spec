@@ -9,7 +9,7 @@ Source0:        https://files.pythonhosted.org/packages/source/b/black/black-%{v
 BuildArch:      noarch
  
 BuildRequires:  pkgconfig(python)
-BuildRequires:  pkgconfig(setuptools)
+BuildRequires:  python3dist(setuptools)
 
 %description
 Black is the uncompromising Python code formatter. By using it, you agree to
