@@ -13,6 +13,7 @@ BuildRequires:  python3dist(setuptools)
 BuildRequires:  python3dist(setuptools-scm)
 BuildRequires:  python3dist(wheel)
 BuildRequires:  python3dist(pip)
+BuildRequires:  python3dist(tomli)
 
 %description
 Black is the uncompromising Python code formatter. By using it, you agree to
