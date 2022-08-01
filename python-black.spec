@@ -1,5 +1,5 @@
 Name:           python-black
-Version:        22.3.0
+Version:        22.6.0
 Release:        1
 Summary:        The uncompromising code formatter
 License:        MIT
