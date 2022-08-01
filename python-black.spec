@@ -31,3 +31,10 @@ You will save time and mental energy for more important matters.
 %py_install
   
 %files
+%{_bindir}/black
+%{_bindir}/blackd
+%{python_sitelib}/_black_version.py
+%{python_sitelib}/black-%{version}-py*.*.egg-info
+%{python_sitelib}/black/
+%{python_sitelib}/blackd/
+%{python_sitelib}/blib2to3/
