@@ -1,5 +1,6 @@
 %define module black
-%bcond_without test
+# disable test on abf
+%bcond_with test
 
 Name:           python-black
 Version:        25.1.0
