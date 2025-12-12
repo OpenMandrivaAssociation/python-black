@@ -4,7 +4,7 @@
 
 Name:           python-black
 Version:        25.1.0
-Release:        1
+Release:        2
 Summary:        The uncompromising code formatter
 License:        MIT
 URL:            https://github.com/psf/black
