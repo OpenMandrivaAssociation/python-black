@@ -3,7 +3,7 @@
 %bcond tests 1
 
 Name:		python-black
-Version:	26.5.0
+Version:	26.5.1
 Release:	1
 Summary:	The uncompromising code formatter
 License:	MIT
