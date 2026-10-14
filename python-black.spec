@@ -4,7 +4,7 @@
 
 Name:		python-black
 Version:	26.10.1
-Release:	1
+Release:	2
 Summary:	The uncompromising code formatter
 License:	MIT
 Group:		Development/Python
